@@ -15,7 +15,7 @@ a simple static http or ftp server
   - `type` 指定服务的类型（http、ftp），默认值 `ftp`
   - `dir` 指定服务的文件夹（绝对路径），默认值 当前目录
 
- - Use
+ - Usage
 
   - `port` service port, default `8888`
   - `type` service type (http、ftp), default `ftp`

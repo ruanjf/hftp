@@ -5,8 +5,8 @@
   "keywords"      : ["http", "static", "server", "ftp", "browser"],
   "author"        : "ruanjiefeng <ruanjiefeng@gmail.com>",
   "repository"    : {"type": "git", "url": "git@github.com:ruanjf/hftp.git"},
-  "main"          : "static_server.js",
+  "main"          : "./lib/static_server.js",
+  "bin"           : {"hftp": "./bin/hftp"},
   "version"       : "0.0.1",
-  "license"       : "MIT",
-  "files"         : ["static_server.js", "LICENSE"]
+  "licenses"      : "MIT"
 }

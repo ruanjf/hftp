@@ -15,7 +15,7 @@ a simple static http or ftp server
 
  - Use
 
-	- `dir` service folder(Absolute path)
+	- `dir` service folder (Absolute path)
 	- `port` service port, default `8888`
  	- `type` service type (http、ftp), default `ftp`
 

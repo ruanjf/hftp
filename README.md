@@ -3,7 +3,7 @@ hftp
 
 a simple static http or ftp server
 
-`hftp <dir> <port> <tpye>`
+`hftp [port] [tpye] [dir]`
 
 `hftp 8888 http d:\tt`
 

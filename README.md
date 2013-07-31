@@ -4,6 +4,7 @@ hftp
 a simple static http or ftp server
 
 `hftp <dir> <port> <tpye>`
+
 `hftp d:\tt 88 http`
 
  - 用法

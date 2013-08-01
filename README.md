@@ -5,6 +5,8 @@ a simple static http or ftp server
 
 简易的http、ftp服务器
 
+安装（setup）`npm install -g hftp`，使用到[nodejs](http://nodejs.org/)
+
 `hftp [port] [tpye] [dir]`
 
 `hftp 8888 http d:\tt`

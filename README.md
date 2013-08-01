@@ -9,13 +9,13 @@ a simple static http or ftp server
 
 `hftp [port] [tpye] [dir]`
 
-`hftp 8888 http d:\tt`
+1. `hftp 8888 http d:\tt`
 
-`hftp 8888 http ` 默认使用当前目录
+2. `hftp 8888 http ` 默认使用当前目录
 
-`hftp 8888`  默认使用当前目录、ftp服务
+3. `hftp 8888`  默认使用当前目录、ftp服务
 
-`hftp`  默认使用当前目录、ftp服务、8888端口
+4. `hftp`  默认使用当前目录、ftp服务、8888端口
 
  - 用法
 

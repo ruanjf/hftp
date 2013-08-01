@@ -22,12 +22,12 @@ a simple static http or ftp server
   - `dir` service folder (Absolute path), default current dir
 
 
-EXAMPLES
+ - EXAMPLES
 
-1. `hftp 8888 http d:\tt`
+  - `hftp 8888 http d:\tt` 使用`http`服务，服务端口`8888`，工作目录`d:\tt`
 
-2. `hftp 8888 http ` 默认使用当前目录
+  - `hftp 8888 http ` 默认使用当前目录
 
-3. `hftp 8888`  默认使用当前目录、ftp服务
+  - `hftp 8888`  默认使用当前目录、`ftp`服务
 
-4. `hftp`  默认使用当前目录、ftp服务、8888端口
+  - `hftp`  默认使用当前目录、`ftp`服务、`8888`端口

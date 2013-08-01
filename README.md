@@ -22,7 +22,7 @@ a simple static http or ftp server
   - `dir` service folder (Absolute path), default current dir
 
 
- - EXAMPLES
+ - 用例 EXAMPLES
 
   - `hftp 8888 http d:\tt` 使用`http`服务，服务端口`8888`，工作目录`d:\tt`
 

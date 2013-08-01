@@ -11,6 +11,12 @@ a simple static http or ftp server
 
 `hftp 8888 http d:\tt`
 
+`hftp 8888 http ` 默认使用当前目录
+
+`hftp 8888`  默认使用当前目录、ftp服务
+
+`hftp`  默认使用当前目录、ftp服务、8888端口
+
  - 用法
 
   - `port` 指定服务的端口，默认值 `8888`

@@ -9,14 +9,6 @@ a simple static http or ftp server
 
 `hftp [port] [tpye] [dir]`
 
-1. `hftp 8888 http d:\tt`
-
-2. `hftp 8888 http ` 默认使用当前目录
-
-3. `hftp 8888`  默认使用当前目录、ftp服务
-
-4. `hftp`  默认使用当前目录、ftp服务、8888端口
-
  - 用法
 
   - `port` 指定服务的端口，默认值 `8888`
@@ -29,3 +21,13 @@ a simple static http or ftp server
   - `type` service type (http、ftp), default `ftp`
   - `dir` service folder (Absolute path), default current dir
 
+
+EXAMPLES
+
+1. `hftp 8888 http d:\tt`
+
+2. `hftp 8888 http ` 默认使用当前目录
+
+3. `hftp 8888`  默认使用当前目录、ftp服务
+
+4. `hftp`  默认使用当前目录、ftp服务、8888端口

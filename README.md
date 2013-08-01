@@ -3,7 +3,7 @@ hftp
 
 a simple static http or ftp server
 
-简易的http、ftp服务器
+简易的http、ftp静态服务器
 
 `npm install -g hftp` 安装（setup），使用到[nodejs](http://nodejs.org/)
 

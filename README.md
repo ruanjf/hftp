@@ -31,3 +31,7 @@ a simple static http or ftp server
   - `hftp 8888`  默认使用当前目录、`ftp`服务
 
   - `hftp`  默认使用当前目录、`ftp`服务、`8888`端口
+
+ - 测试 TEST
+
+  `node lib/static_server.js 88 http`

@@ -6,7 +6,7 @@
   "author"        : "ruanjiefeng <ruanjiefeng@gmail.com>",
   "repository"    : {"type": "git", "url": "git@github.com:ruanjf/hftp.git"},
   "dependencies": {
-    "mime": "~1.2.11",
+    "mime": "~1.2.11"
   },
   "main"          : "./lib/static_server.js",
   "bin"           : {"hftp": "./bin/hftp"},
